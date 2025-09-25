@@ -51,18 +51,11 @@
 ---
 
 ## 📌 Pinned Projects
-- [NotesShala](https://github.com/NotesShala) – Notes sharing platform for NIT JSR (Team Project)  
-- [Ojass Website](https://github.com/ojassnitjsr) – Official Techno-Management Fest site  
-- [GIEST Website](https://github.com/) – Official repo for GIEST Fest  
+- [NotesShala](https://github.com/Innoreva-2k21/NotesShala) – Notes sharing platform for NIT JSR (Team Project)  
+- [Ojass Website](https://github.com/Premraj18/ojass) – Official Techno-Management Fest site  
+- [GIEST Website](https://github.com/Premraj18/giest) – Official repo for GIEST Fest  
 
 ---
 
-## 🌐 Connect With Me
-- 💼 [LinkedIn](https://linkedin.com/in/premrajprasad)  
-- 📸 [Instagram](https://instagram.com/)  
-- 🐦 [Twitter](https://twitter.com/)  
-- ✉️ Reach me at: **your.email@example.com**  
-
----
 
 ### ✨ "Code. Contribute. Create." ✨
